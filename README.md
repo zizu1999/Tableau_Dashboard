@@ -1,4 +1,4 @@
-### 1. 📂 Oura_Ring
+### 📂 Oura_Ring
 
 **Description**: Dashboard designed to monitor health-related KPIs collected from an Oura Ring device. The goal is to track physical and sleep-related metrics over time and group them by score ranges.
 
