@@ -2,7 +2,7 @@
 
 **Description**: Dashboard designed to monitor health-related KPIs collected from an Oura Ring device. The goal is to track physical and sleep-related metrics over time and group them by score ranges.
 
-![Descrizione alternativa]()
+![Descrizione alternativa](https://github.com/zizu1999/Tableau_Dashboard/blob/main/Screenshot%202025-07-22%20124157.png)
 
 **Key metrics** include:
 - Daily Sleep Readiness and Activity scores (scale from 0 to 100) 
